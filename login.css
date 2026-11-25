@@ -1,0 +1,11 @@
+body{
+background-color:pink;
+font-weight:bold;
+}
+
+button{
+    border-radius: 5px;
+    padding:20px;
+    background-color:purple;
+    color:green;
+}
